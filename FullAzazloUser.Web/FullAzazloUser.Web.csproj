@@ -13,6 +13,13 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FullAzazloUser.Application\FullAzazloUser.Application.csproj" />
+    <ProjectReference Include="..\FullAzazloUser.Domain\FullAzazloUser.Domain.csproj" />
+    <ProjectReference Include="..\FullAzazloUser.Infrastructure\FullAzazloUser.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
