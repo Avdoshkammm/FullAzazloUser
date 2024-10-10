@@ -3,12 +3,6 @@ using FullAzazloUser.Application.DTOs;
 using FullAzazloUser.Application.Interfaces;
 using FullAzazloUser.Domain.Entities;
 using FullAzazloUser.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.AccessControl;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FullAzazloUser.Application.Services
 {
@@ -21,12 +15,13 @@ namespace FullAzazloUser.Application.Services
             _userRepository = userRepository;
             _mapper = mapper;
         }
-        public async Task<IEnumerable<UserDto>> GetAllUsersAsync()
+        public async Task<IEnumerable<UserDto>> GetAllUsers()
         {
             var users = await _userRepository.GetAllUsersAsync();
             return _mapper.Map<IEnumerable<UserDto>>(users);
         }
-        public async Task<UserDto> GetUserByIdAsync(int id)
+
+        public async Task<UserDto> GetUserById(int id)
         {
             var user = await _userRepository.GetUserByIdAsync(id);
             return _mapper.Map<UserDto>(user);
@@ -45,5 +40,7 @@ namespace FullAzazloUser.Application.Services
         {
             await _userRepository.DeleteUserAsync(id);
         }
+
+        
     }
 }

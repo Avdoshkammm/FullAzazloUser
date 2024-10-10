@@ -20,7 +20,6 @@ builder.Services.AddScoped<IUserService, UserService>();
 
 //AutoMapper
 builder.Services.AddAutoMapper(typeof(MappingProfile));
-
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
 

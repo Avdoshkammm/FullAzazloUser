@@ -1,12 +1,265 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165E8A4-262B-43EC-A650-A1D7E055CB53}|..\\FullAzazloUser.Infrastructure\\FullAzazloUser.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.web\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5610034-5842-47BE-BF7D-624BB8CE6E7E}|..\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5610034-5842-47BE-BF7D-624BB8CE6E7E}|..\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB694DF3-4308-4BD7-85BF-70FBFC5D3550}|..\\FullAzazloUser.Domain\\FullAzazloUser.Domain.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5610034-5842-47BE-BF7D-624BB8CE6E7E}|..\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5610034-5842-47BE-BF7D-624BB8CE6E7E}|..\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5610034-5842-47BE-BF7D-624BB8CE6E7E}|..\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.application\\fullazazlouser.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.web\\fullazazlouser.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CBFFD49-9B91-46A8-AB4B-316A52333400}|FullAzazloUser.Web.csproj|solutionrelative:fullazazlouser.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB694DF3-4308-4BD7-85BF-70FBFC5D3550}|..\\FullAzazloUser.Domain\\FullAzazloUser.Domain.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.domain\\fullazazlouser.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165E8A4-262B-43EC-A650-A1D7E055CB53}|..\\FullAzazloUser.Infrastructure\\FullAzazloUser.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.infrastructure\\fullazazlouser.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB694DF3-4308-4BD7-85BF-70FBFC5D3550}|..\\FullAzazloUser.Domain\\FullAzazloUser.Domain.csproj|c:\\users\\avdoshkammm\\source\\repos\\fullazazlouser\\fullazazlouser.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 436,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:06:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FullAzazloUser.Application",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj",
+              "RelativeToolTip": "..\\FullAzazloUser.Application\\FullAzazloUser.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T09:35:18.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "..\\FullAzazloUser.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:19:11.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "..\\FullAzazloUser.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:15:02.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\FullAzazloUser.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:11:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\FullAzazloUser.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:08:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\FullAzazloUser.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:18:06.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\FullAzazloUser.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:43:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:45:50.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:37:23.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FullAzazloUser.Web",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\FullAzazloUser.Web.csproj",
+              "RelativeDocumentMoniker": "FullAzazloUser.Web.csproj",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\FullAzazloUser.Web.csproj",
+              "RelativeToolTip": "FullAzazloUser.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T08:40:28.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FullAzazloUser.Domain",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Domain\\FullAzazloUser.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Domain\\FullAzazloUser.Domain.csproj",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Domain\\FullAzazloUser.Domain.csproj",
+              "RelativeToolTip": "..\\FullAzazloUser.Domain\\FullAzazloUser.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T09:29:53.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FullAzazloUser.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Infrastructure\\FullAzazloUser.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Infrastructure\\FullAzazloUser.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Infrastructure\\FullAzazloUser.Infrastructure.csproj",
+              "RelativeToolTip": "..\\FullAzazloUser.Infrastructure\\FullAzazloUser.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T09:22:43.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\FullAzazloUser.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\FullAzazloUser.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:12:32.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\FullAzazloUser\\FullAzazloUser.Web\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T09:00:31.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

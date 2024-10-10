@@ -2,11 +2,6 @@
 using FullAzazloUser.Domain.Interfaces;
 using FullAzazloUser.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FullAzazloUser.Infrastructure.Repositories
 {
@@ -19,7 +14,12 @@ namespace FullAzazloUser.Infrastructure.Repositories
         }
         public async Task<IEnumerable<User>> GetAllUsersAsync()
         {
-            return await _dbContext.Users.ToListAsync();
+            var allU = await _dbContext.Users.ToListAsync();
+            if(allU == null)
+            {
+                return null;
+            }
+            return allU;
         }
         public async Task<User> GetUserByIdAsync(int id)
         {

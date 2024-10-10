@@ -9,8 +9,8 @@ namespace FullAzazloUser.Application.Interfaces
 {
     public interface IUserService
     {
-        Task<IEnumerable<UserDto>> GetAllUsersAsync();
-        Task<UserDto> GetUserByIdAsync(int id);
+        Task<IEnumerable<UserDto>> GetAllUsers();
+        Task<UserDto> GetUserById(int id);
         Task CreateUser(UserDto userDto);
         Task UpdateUser(UserDto userDto);
         Task DeleteUser(int id);
